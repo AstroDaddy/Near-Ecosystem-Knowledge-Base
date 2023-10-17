@@ -14,10 +14,12 @@ Gitbook has AI enabled, let's pile all of the Near documentation we can find int
 
 The repository will also serve as an open source (CC0) data set that can be used to train and benchmark other AI systems.&#x20;
 
+Why Markdown? It's a good balance between human readable and machine parsable. &#x20;
+
 ## How
 
 1. Find some docs you want to import.
-2. Claim Heroes Bounty
+2. Claim Heroes Bounty.
 3. Make a branch.
 4. Add the content.
 5. Submit a PR.
